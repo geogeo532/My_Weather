@@ -1,0 +1,33 @@
+.container_searchbar{
+
+  width:80%;
+  max-width: 1080px;
+  margin:20px auto;
+}
+.schimba{
+  
+  width:44%;
+  height:200px;
+  background-color: white;
+  margin-top:2%;
+  margin-left:28%;
+}
+.loader {
+  width: 48px;
+  height: 48px;
+  border: 5px solid #FFF;
+  border-bottom-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+  }
+
+  @keyframes rotation {
+  0% {
+      transform: rotate(0deg);
+  }
+  100% {
+      transform: rotate(360deg);
+  }
+  } 

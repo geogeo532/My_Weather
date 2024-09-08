@@ -1,0 +1,19 @@
+.heartButton {
+  background-color: transparent;
+  color: red;
+  border: none;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+}
+
+.heartButton:before {
+  content: '\2661'; 
+  font-size: 1.5em;
+  margin-right: 5px;
+}
+
+.heartButton.filled:before {
+  content: '\2764'; 
+}
