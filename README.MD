@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/TB6tdrMd)
+
 # Weather viewer application
 
 ## Story
@@ -23,9 +23,6 @@ It should have a pleasing UI/UX, that blends in an photo from the city with the 
 - There is a `<div id="root">` tag without children when the page loads in
 - All the contents are placed and removed by javascript
 
-## Hints
-
-- **For students that want to play around with frameworks, this project can also be implemented using a frontend framework like React, Vue, Svelte, htmx, etc. JQuery is not an acceptable option**
 
 ## Background materials
 - <i class="far fa-exclamation"></i> [JavaScript First steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
@@ -33,4 +30,4 @@ It should have a pleasing UI/UX, that blends in an photo from the city with the 
 - <i class="far fa-exclamation"></i> [JavaScript Fetch API Examples](https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data)
 - <i class="far fa-exclamation"></i> [Weather API](https://www.weatherapi.com/docs/)
 - <i class="far fa-exclamation"></i> [Example autocomplete](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
-- <i class="far fa-book-open"></i> [CSS Weather Widgets you can draw inspiration from - Do NOT copy and paste one, create your own!](https://freefrontend.com/css-weather-widgets/)
+- <i class="far fa-book-open"></i> [CSS Weather Widgets you can draw inspiration from ](https://freefrontend.com/css-weather-widgets/)
